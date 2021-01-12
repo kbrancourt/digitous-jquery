@@ -1,3 +1,3 @@
 $(document).ready(function(){
-    $("#text").css("font-size", "50px")
+    $("#text").css("fontSize", "50px")
 })

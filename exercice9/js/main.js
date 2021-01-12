@@ -1,4 +1,11 @@
 $(document).ready(function(){
     
-    $("button").show()
+    $("button").click(function(){
+        $("#text").css("display", "block");
+})
+
+    //function afficherTexte(){
+    //   $("#text").css("display", "block") afficherTexte()
+    //}
+
 })
